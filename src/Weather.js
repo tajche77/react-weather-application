@@ -67,7 +67,7 @@ export default function Weather(props) {
             <ul>
               <li>Precipitation: 0%</li>
               <li>Humidity: 70%</li>
-              <li>Wind: {weatherData.wind}km/h</li>
+              <li>Wind: {Math.round(weatherData.wind)}km/h</li>
             </ul>
           </div>
         </div>
