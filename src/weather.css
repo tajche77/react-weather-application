@@ -26,6 +26,12 @@
   margin: 10px auto;
   display: inline-block;
 }
+.Weather .humidity {
+  font-weight: bold;
+}
+.Weather .wind {
+  font-weight: bold;
+}
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
