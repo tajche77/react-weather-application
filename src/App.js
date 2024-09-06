@@ -10,13 +10,21 @@ export default function App() {
         <footer>
           This project was coded by
           <a
-            href="https://github.com/tajche77/react-weather-application"
+            href="https://github.com/tajche77?tab=repositories"
             target="_blank"
             rel="noreferrer"
           >
             {" "}
             TamaraB
           </a>{" "}
+          , is open-sourced on
+          <a
+            href="https://github.com/tajche77/react-weather-application"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
           and is hosted on {""}
           <a
             href="https://kaleidoscopic-toffee-53c4a6.netlify.app/"
